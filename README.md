@@ -4,11 +4,11 @@
 <b>Discipline | <b>Computer Science & Engineering
 :--|:--|
 <b> Lab | <b>  Artificial Intelligence Lab 
-    <b> Experiment|     <b> Write a program to perform and visualize Depth First Search  
+    
 ### About the Experiment 
 
 Fill a brief description of this experiment here
-
+ Write a program to perform and visualize Depth First Search  
 <b>Name of Developer | <b> Dr. Sriram Sankaran
 :--|:--|
 <b> Institute | <b>  Amrita Vishwa Vidyapeetham
