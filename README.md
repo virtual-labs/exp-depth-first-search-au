@@ -6,8 +6,6 @@
 <b> Lab | <b>  Artificial Intelligence Lab 
     
 ### About the Experiment 
-
-Fill a brief description of this experiment here
  Write a program to perform and visualize Depth First Search  
 <b>Name of Developer | <b> Dr. Sriram Sankaran
 :--|:--|
