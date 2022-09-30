@@ -1,20 +1,19 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Computer Science & Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
-
+<b> Lab | <b>  Artificial Intelligence Lab 
+    <b> Experiment|     <b> Write a program to perform and visualize Depth First Search  
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Dr. Sriram Sankaran
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham
+<b> Email id|     <b>  srirams@am.amrita.edu
+<b> Department |  Center for Cybersecurity Systems and Networks
 
 ### Contributors List
 
