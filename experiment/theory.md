@@ -28,3 +28,42 @@ For finding the strongly connected components of a graph
 <li>
 For detecting cycles in a graph
 </li>
+
+## Example for DFS algorithm
+Below depicts a traversal example  based on Depth First Search Algorithm
+
+![newnode1]
+<p align="center">
+<img src="images/newnode1.png"  />
+</p>
+pushed the first element 
+
+![newnode2]
+<p align="center">
+<img src="images/newnode2.png"  />
+</p>
+popped the first element 
+
+![newnode3]
+<p align="center">
+<img src="images/newnode3.png"  />
+</p>
+pushed the second element
+
+![newnode4]
+<p align="center">
+<img src="images/newnode4.png"  />
+</p>
+pushed the third element
+
+![newnode5]
+<p align="center">
+<img src="images/newnode5.png"  />
+</p>
+popped the third element 
+
+![newnode6]
+<p align="center">
+<img src="images/newnode6.png"  />
+</p>
+popped the second element 
