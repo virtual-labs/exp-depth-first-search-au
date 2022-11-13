@@ -2,35 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Depth First Search is equivalent to which of the traversal in the Binary Trees?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Pre-order Traversal",
+        "b": "Post-order Traversal",
+        "c": "Level-order Traversal",
+        "d": "In-order Traversal"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Time Complexity of DFS is? (V – number of vertices, E – number of edges)",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "O(V*E)",
+        "b": "O(V)",
+        "c": "O(E)",
+        "d": "O(V + E)"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Depth First Search graph search algorithm uses ______ data structure implementation",
+      "answers": {
+        "a": "Dequeue",
+        "b": "Queue",
+        "c": "Tree",
+        "d": "Stack"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The Depth First Search traversal of a graph will result into?",
+      "answers": {
+        "a": "Linked List",
+        "b": "Array",
+        "c": "Graph with back edges",
+        "d": "Tree"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is not an application of Depth First Search?",
+      "answers": {
+        "a": "For generating topological sort of a graph",
+        "b": "For generating Strongly Connected Components of a directed graph",
+        "c": "Peer to Peer Networks",
+        "d": "Detecting cycles in the graph"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
