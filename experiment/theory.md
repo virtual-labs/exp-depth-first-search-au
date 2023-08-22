@@ -1,8 +1,8 @@
-# Depth-First Search Algorithm
+# Depth-First Traversal Algorithm
 
 ### Depth first Search or Depth first traversal is a recursive algorithm for searching all the vertices of a graph or tree data structure.
 
-The depth-first search or DFS algorithm traverses or explores data structures, such as trees and graphs. The algorithm starts at the root node (in the case of a graph, you can use any random node as the root node) and examines each branch as far as possible before backtracking.
+The depth-first traversal or DFS algorithm traverses or explores data structures, such as trees and graphs. The algorithm starts at the root node (in the case of a graph, you can use any random node as the root node) and examines each branch as far as possible before backtracking.
 
 To implement DFS traversal, you need to utilize a stack data structure with a maximum size equal to the total number of vertices in the graph.
 
@@ -30,39 +30,3 @@ For finding the strongly connected components of a graph
 <li>
 For detecting cycles in a graph
 </li>
-
-## Example for DFS algorithm
-
-Below depicts a traversal example based on Depth First Search Algorithm
-
-<p align="center">
-<img style="width:50%;" src="images/newnode1.jpeg"  />
-</p>
-pushed the first element
-
-<p align="center">
-<img style="width:50%;" src="images/newnode2.jpeg"  />
-</p>
-popped the first element
-
-<p align="center">
-
-<img style="width:50%;" src="images/newnode3.jpeg"  />
-</p>
-pushed the second element
-
-<p align="center">
-
-<img style="width:50%;" src="images/newnode4.jpeg"  />
-</p>
-pushed the third element
-
-<p align="center">
-<img style="width:50%;" src="images/newnode5.jpeg"  />
-</p>
-popped the third element
-
-<p align="center">
-<img style="width:50%;" src="images/newnode6.jpeg"  />
-</p>
-popped the second element
