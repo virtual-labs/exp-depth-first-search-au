@@ -34,36 +34,36 @@ Below depicts a traversal example  based on Depth First Search Algorithm
 
 ![newnode1]
 <p align="center">
-<img src="images/newnode1.png"  />
+<img src="images/newnode1.jpeg"  />
 </p>
 pushed the first element 
 
 ![newnode2]
 <p align="center">
-<img src="images/newnode2.png"  />
+<img src="images/newnode2.jpeg"  />
 </p>
 popped the first element 
 
 ![newnode3]
 <p align="center">
-<img src="images/newnode3.png"  />
+<img src="images/newnode3.jpeg"  />
 </p>
 pushed the second element
 
 ![newnode4]
 <p align="center">
-<img src="images/newnode4.png"  />
+<img src="images/newnode4.jpeg"  />
 </p>
 pushed the third element
 
 ![newnode5]
 <p align="center">
-<img src="images/newnode5.png"  />
+<img src="images/newnode5.jpeg"  />
 </p>
 popped the third element 
 
 ![newnode6]
 <p align="center">
-<img src="images/newnode6.png"  />
+<img src="images/newnode6.jpeg"  />
 </p>
 popped the second element 
