@@ -16,5 +16,5 @@ Random Graphs can also be generated in the simulation as follows:
 4. Press the 'Go' Buton to start the traversing in randomly generated graph.
 5. Press the 'RESET' botton to Reset to the presets of simulation/start again.
  
- All outputs and transitions works after pressing 'Go' button with filling each field right.
+ The graph trversal based on DFS algorithm starts excecuting on clicking "GO"command button from the web interface.
 

@@ -46,11 +46,13 @@ pushed the first element
 popped the first element
 
 <p align="center">
+
 <img style="width:50%;" src="images/newnode3.jpeg"  />
 </p>
 pushed the second element
 
 <p align="center">
+
 <img style="width:50%;" src="images/newnode4.jpeg"  />
 </p>
 pushed the third element
