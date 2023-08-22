@@ -36,31 +36,31 @@ For detecting cycles in a graph
 Below depicts a traversal example based on Depth First Search Algorithm
 
 <p align="center">
-<img style="width:50%;" src="images/newnode1.png"  />
+<img style="width:50%;" src="images/newnode1.jpeg"  />
 </p>
 pushed the first element
 
 <p align="center">
-<img style="width:50%;" src="images/newnode2.png"  />
+<img style="width:50%;" src="images/newnode2.jpeg"  />
 </p>
 popped the first element
 
 <p align="center">
-<img style="width:50%;" src="images/newnode3.png"  />
+<img style="width:50%;" src="images/newnode3.jpeg"  />
 </p>
 pushed the second element
 
 <p align="center">
-<img style="width:50%;" src="images/newnode4.png"  />
+<img style="width:50%;" src="images/newnode4.jpeg"  />
 </p>
 pushed the third element
 
 <p align="center">
-<img style="width:50%;" src="images/newnode5.png"  />
+<img style="width:50%;" src="images/newnode5.jpeg"  />
 </p>
 popped the third element
 
 <p align="center">
-<img style="width:50%;" src="images/newnode6.png"  />
+<img style="width:50%;" src="images/newnode6.jpeg"  />
 </p>
 popped the second element
