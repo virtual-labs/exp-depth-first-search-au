@@ -30,3 +30,29 @@ For finding the strongly connected components of a graph
 <li>
 For detecting cycles in a graph
 </li>
+
+Below depicts a traversal example based on Depth First Search Algorithm
+
+<p align="center">
+<img style="width:50%;" src="images/newnode1.png"  />
+</p>
+
+<p align="center">
+<img style="width:50%;" src="images/newnode2.png"  />
+</p>
+
+<p align="center">
+<img style="width:50%;" src="images/newnode3.png"  />
+</p>
+
+
+<p align="center">
+<img style="width:50%;" src="images/newnode4.png"  />
+</p>
+
+
+<p align="center">
+Stack Empty , all nodes traversed.
+</p>
+
+
