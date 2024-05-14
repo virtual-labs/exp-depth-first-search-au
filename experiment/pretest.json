@@ -13,7 +13,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": " Depth First Search is equivalent to which of the traversal in the Binary Trees??",
+      "question": " Depth First Search is equivalent to which of the traversal in the Binary Trees?",
       "answers": {
         "a": "Pre-order Traversal",
         "b": "Post-order Traversal",
@@ -21,10 +21,10 @@
         "d": "In-order Traversa"
       },
      
-      "correctAnswer": "ac",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },    {
-      "question": " The Data structure used in standard implementation of Breadth First Search is??",
+      "question": " The Data structure used in standard implementation of Breadth First Search is?",
       "answers": {
         "a": "Stack",
         "b": "Queue",
@@ -32,7 +32,7 @@
         "d": "Array"
       },
      
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
