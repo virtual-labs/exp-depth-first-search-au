@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "DFS is a  ",
+      "answers": {
+        "a": "traversal algorithm",
+        "b": "search algorithm",
+        "c": "both",
+        "d": "none"
+      },     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " Depth First Search is equivalent to which of the traversal in the Binary Trees?",
+      "answers": {
+        "a": "Pre-order Traversal",
+        "b": "Post-order Traversal",
+        "c": "Level-order Traversal",
+        "d": "In-order Traversa"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },    {
+      "question": " The Data structure used in standard implementation of Breadth First Search is?",
+      "answers": {
+        "a": "Stack",
+        "b": "Queue",
+        "c": "Linked List",
+        "d": "Array"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
