@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "DFS is a  ",
+      "question": "DFS is a",
       "answers": {
         "a": "traversal algorithm",
         "b": "search algorithm",
@@ -13,26 +13,58 @@
       "difficulty": "beginner"
     },
     {
-      "question": " Depth First Search is equivalent to which of the traversal in the Binary Trees?",
+      "question": "Depth First Search is equivalent to which of the traversal in Binary Trees?",
       "answers": {
         "a": "Pre-order Traversal",
         "b": "Post-order Traversal",
         "c": "Level-order Traversal",
-        "d": "In-order Traversa"
+        "d": "In-order Traversal"
       },
-     
       "correctAnswer": "a",
       "difficulty": "beginner"
-    },    {
-      "question": " The Data structure used in standard implementation of Breadth First Search is?",
+    },
+    {
+      "question": "The data structure used in standard implementation of Breadth First Search is?",
       "answers": {
         "a": "Stack",
         "b": "Queue",
         "c": "Linked List",
         "d": "Array"
       },
-     
       "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which data structure is commonly used for implementing DFS?",
+      "answers": {
+        "a": "Queue",
+        "b": "Stack",
+        "c": "Heap",
+        "d": "Graph"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "DFS can be used to detect which of the following in a graph?",
+      "answers": {
+        "a": "Cycles",
+        "b": "Shortest path",
+        "c": "All leaf nodes",
+        "d": "Graph degree"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "DFS can be applied to which type of graph traversal?",
+      "answers": {
+        "a": "Directed graphs only",
+        "b": "Undirected graphs only",
+        "c": "Both directed and undirected graphs",
+        "d": "Weighted graphs only"
+      },
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]

@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Depth First Search is equivalent to which of the traversal in the Binary Trees?",
+      "question": "Depth First Search is equivalent to which of the traversal in Binary Trees?",
       "answers": {
         "a": "Pre-order Traversal",
         "b": "Post-order Traversal",
@@ -10,7 +10,7 @@
         "d": "In-order Traversal"
       },
       "explanations": {
-        "a": "",
+        "a": "DFS explores nodes in a path before backtracking, which is similar to Pre-order traversal in trees.",
         "b": "",
         "c": "",
         "d": ""
@@ -27,10 +27,7 @@
         "d": "O(V + E)"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "d": "DFS visits each vertex once and traverses all edges once, giving O(V + E) complexity."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -44,10 +41,7 @@
         "d": "Stack"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "d": "DFS uses a stack (either explicit or via recursion) to backtrack along the paths."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -61,10 +55,7 @@
         "d": "Tree"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "d": "DFS traversal generates a DFS tree, showing the order in which vertices are visited."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -78,10 +69,7 @@
         "d": "Detecting cycles in the graph"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "c": "DFS is generally not directly used for peer-to-peer network operations; the others are classical applications of DFS."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"

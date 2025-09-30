@@ -1,6 +1,6 @@
 
+- [Depth-first search and linear graph algorithms](https://ieeexplore.ieee.org/document/4569669)
 
-### References
 
 - [GeeksforGeeks - Depth First Search (DFS) for a Graph](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)
 - [Programiz - Graph DFS](https://www.programiz.com/dsa/graph-dfs)
