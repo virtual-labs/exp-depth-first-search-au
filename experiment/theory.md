@@ -1,4 +1,4 @@
-### Theory
+
 #### Depth-First Traversal Algorithm
 
  Depth first Search or Depth first traversal is a recursive algorithm for searching all the vertices of a graph or tree data structure.
